@@ -1,0 +1,23 @@
+# KiCad Specific Files to Ignore
+*.bak
+*.orig
+*-backups/
+*-bak/
+*.pro-backups/
+*.kicad_pro-backups/
+*.kicad_pcb-bak
+*.kicad_pcb-save
+*.kicad_sch-bak
+*.kicad_sch-save
+*.kicad_wks
+*.kicad_sym-bak
+*.kicad_mod
+*.kicad_rpt
+*.dcm
+*.out
+*.log
+*.zip
+*.rar
+# Project-local settings/cache
+fp-info-cache
+*.kicad_prl
